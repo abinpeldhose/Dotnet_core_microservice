@@ -1,0 +1,120 @@
+D:\5005\sda\API\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.deps.json
+D:\5005\sda\API\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.dll
+D:\5005\sda\API\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.pdb
+D:\5005\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.csproj.AssemblyReference.cache
+D:\5005\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.GeneratedMSBuildEditorConfig.editorconfig
+D:\5005\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.AssemblyInfoInputs.cache
+D:\5005\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.AssemblyInfo.cs
+D:\5005\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.csproj.CoreCompileInputs.cache
+D:\5005\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.dll
+D:\5005\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\refint\Tokenmanager.dll
+D:\5005\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.pdb
+D:\5005\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\ref\Tokenmanager.dll
+D:\5011\sda\API\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.deps.json
+D:\5011\sda\API\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.dll
+D:\5011\sda\API\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.pdb
+D:\5011\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.csproj.AssemblyReference.cache
+D:\5011\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.GeneratedMSBuildEditorConfig.editorconfig
+D:\5011\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.AssemblyInfoInputs.cache
+D:\5011\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.AssemblyInfo.cs
+D:\5011\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.csproj.CoreCompileInputs.cache
+D:\5011\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.dll
+D:\5011\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\refint\Tokenmanager.dll
+D:\5011\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.pdb
+D:\5011\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\ref\Tokenmanager.dll
+D:\5012\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.deps.json
+D:\5012\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.dll
+D:\5012\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.pdb
+D:\5012\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.csproj.AssemblyReference.cache
+D:\5012\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.GeneratedMSBuildEditorConfig.editorconfig
+D:\5012\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.AssemblyInfoInputs.cache
+D:\5012\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.AssemblyInfo.cs
+D:\5012\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.csproj.CoreCompileInputs.cache
+D:\5012\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.dll
+D:\5012\customerSdmodule\Taskmanager\obj\Debug\net6.0\refint\Tokenmanager.dll
+D:\5012\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.pdb
+D:\5012\customerSdmodule\Taskmanager\obj\Debug\net6.0\ref\Tokenmanager.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.deps.json
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.pdb
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.csproj.AssemblyReference.cache
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.GeneratedMSBuildEditorConfig.editorconfig
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.AssemblyInfoInputs.cache
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.AssemblyInfo.cs
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.csproj.CoreCompileInputs.cache
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\Taskmanager\obj\Debug\net6.0\refint\Tokenmanager.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.pdb
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\Taskmanager\obj\Debug\net6.0\ref\Tokenmanager.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.deps.json
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.pdb
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.csproj.AssemblyReference.cache
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.AssemblyInfoInputs.cache
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.AssemblyInfo.cs
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.csproj.CoreCompileInputs.cache
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\Taskmanager\obj\Debug\net6.0\refint\Tokenmanager.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.pdb
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\Taskmanager\obj\Debug\net6.0\ref\Tokenmanager.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.deps.json
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.pdb
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.csproj.AssemblyReference.cache
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.GeneratedMSBuildEditorConfig.editorconfig
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.AssemblyInfoInputs.cache
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.AssemblyInfo.cs
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.csproj.CoreCompileInputs.cache
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\Taskmanager\obj\Debug\net6.0\refint\Tokenmanager.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.pdb
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\Taskmanager\obj\Debug\net6.0\ref\Tokenmanager.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.deps.json
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.pdb
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.csproj.AssemblyReference.cache
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.AssemblyInfoInputs.cache
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.AssemblyInfo.cs
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.csproj.CoreCompileInputs.cache
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\Taskmanager\obj\Debug\net6.0\refint\Tokenmanager.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.pdb
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\Taskmanager\obj\Debug\net6.0\ref\Tokenmanager.dll
+E:\finalVapt\5012_vapt1\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.deps.json
+E:\finalVapt\5012_vapt1\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.dll
+E:\finalVapt\5012_vapt1\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.pdb
+E:\finalVapt\5012_vapt1\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.csproj.AssemblyReference.cache
+E:\finalVapt\5012_vapt1\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.GeneratedMSBuildEditorConfig.editorconfig
+E:\finalVapt\5012_vapt1\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.AssemblyInfoInputs.cache
+E:\finalVapt\5012_vapt1\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.AssemblyInfo.cs
+E:\finalVapt\5012_vapt1\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.csproj.CoreCompileInputs.cache
+E:\finalVapt\5012_vapt1\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.dll
+E:\finalVapt\5012_vapt1\customerSdmodule\Taskmanager\obj\Debug\net6.0\refint\Tokenmanager.dll
+E:\finalVapt\5012_vapt1\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.pdb
+E:\finalVapt\5012_vapt1\customerSdmodule\Taskmanager\obj\Debug\net6.0\ref\Tokenmanager.dll
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.deps.json
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.dll
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.pdb
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.csproj.AssemblyReference.cache
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.GeneratedMSBuildEditorConfig.editorconfig
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.AssemblyInfoInputs.cache
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.AssemblyInfo.cs
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.csproj.CoreCompileInputs.cache
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.dll
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\Taskmanager\obj\Debug\net6.0\refint\Tokenmanager.dll
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.pdb
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\Taskmanager\obj\Debug\net6.0\ref\Tokenmanager.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.deps.json
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\Taskmanager\bin\Debug\net6.0\Tokenmanager.pdb
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.csproj.AssemblyReference.cache
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.GeneratedMSBuildEditorConfig.editorconfig
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.AssemblyInfoInputs.cache
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.AssemblyInfo.cs
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.csproj.CoreCompileInputs.cache
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\Taskmanager\obj\Debug\net6.0\refint\Tokenmanager.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\Taskmanager\obj\Debug\net6.0\Tokenmanager.pdb
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\Taskmanager\obj\Debug\net6.0\ref\Tokenmanager.dll

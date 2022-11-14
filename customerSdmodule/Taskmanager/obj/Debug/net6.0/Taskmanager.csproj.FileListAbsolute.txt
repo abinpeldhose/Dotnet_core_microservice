@@ -1,0 +1,96 @@
+D:\sda\API\customerSdmodule\Taskmanager\bin\Debug\net6.0\Taskmanager.deps.json
+D:\sda\API\customerSdmodule\Taskmanager\bin\Debug\net6.0\Taskmanager.dll
+D:\sda\API\customerSdmodule\Taskmanager\bin\Debug\net6.0\Taskmanager.pdb
+D:\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.csproj.AssemblyReference.cache
+D:\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.GeneratedMSBuildEditorConfig.editorconfig
+D:\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.AssemblyInfoInputs.cache
+D:\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.AssemblyInfo.cs
+D:\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.csproj.CoreCompileInputs.cache
+D:\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.dll
+D:\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\refint\Taskmanager.dll
+D:\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.pdb
+D:\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\ref\Taskmanager.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\Taskmanager\bin\Debug\net6.0\Taskmanager.deps.json
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\Taskmanager\bin\Debug\net6.0\Taskmanager.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\Taskmanager\bin\Debug\net6.0\Taskmanager.pdb
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.csproj.AssemblyReference.cache
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.AssemblyInfoInputs.cache
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.AssemblyInfo.cs
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.csproj.CoreCompileInputs.cache
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\Taskmanager\obj\Debug\net6.0\refint\Taskmanager.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.pdb
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\Taskmanager\obj\Debug\net6.0\ref\Taskmanager.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\Taskmanager\bin\Debug\net6.0\Taskmanager.deps.json
+E:\August 15\customerSdmodule (3)\customerSdmodule\Taskmanager\bin\Debug\net6.0\Taskmanager.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\Taskmanager\bin\Debug\net6.0\Taskmanager.pdb
+E:\August 15\customerSdmodule (3)\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.csproj.AssemblyReference.cache
+E:\August 15\customerSdmodule (3)\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.GeneratedMSBuildEditorConfig.editorconfig
+E:\August 15\customerSdmodule (3)\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.AssemblyInfoInputs.cache
+E:\August 15\customerSdmodule (3)\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.AssemblyInfo.cs
+E:\August 15\customerSdmodule (3)\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.csproj.CoreCompileInputs.cache
+E:\August 15\customerSdmodule (3)\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\Taskmanager\obj\Debug\net6.0\refint\Taskmanager.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.pdb
+E:\August 15\customerSdmodule (3)\customerSdmodule\Taskmanager\obj\Debug\net6.0\ref\Taskmanager.dll
+D:\Abin\Customerapp4\customerSdmodule\Taskmanager\bin\Debug\net6.0\Taskmanager.deps.json
+D:\Abin\Customerapp4\customerSdmodule\Taskmanager\bin\Debug\net6.0\Taskmanager.dll
+D:\Abin\Customerapp4\customerSdmodule\Taskmanager\bin\Debug\net6.0\Taskmanager.pdb
+D:\Abin\Customerapp4\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.csproj.AssemblyReference.cache
+D:\Abin\Customerapp4\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abin\Customerapp4\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.AssemblyInfoInputs.cache
+D:\Abin\Customerapp4\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.AssemblyInfo.cs
+D:\Abin\Customerapp4\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.csproj.CoreCompileInputs.cache
+D:\Abin\Customerapp4\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.dll
+D:\Abin\Customerapp4\customerSdmodule\Taskmanager\obj\Debug\net6.0\refint\Taskmanager.dll
+D:\Abin\Customerapp4\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.pdb
+D:\Abin\Customerapp4\customerSdmodule\Taskmanager\obj\Debug\net6.0\ref\Taskmanager.dll
+E:\August 15\MainProject\customerSdmodule\Taskmanager\bin\Debug\net6.0\Taskmanager.deps.json
+E:\August 15\MainProject\customerSdmodule\Taskmanager\bin\Debug\net6.0\Taskmanager.dll
+E:\August 15\MainProject\customerSdmodule\Taskmanager\bin\Debug\net6.0\Taskmanager.pdb
+E:\August 15\MainProject\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.csproj.AssemblyReference.cache
+E:\August 15\MainProject\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.GeneratedMSBuildEditorConfig.editorconfig
+E:\August 15\MainProject\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.AssemblyInfoInputs.cache
+E:\August 15\MainProject\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.AssemblyInfo.cs
+E:\August 15\MainProject\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.csproj.CoreCompileInputs.cache
+E:\August 15\MainProject\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.dll
+E:\August 15\MainProject\customerSdmodule\Taskmanager\obj\Debug\net6.0\refint\Taskmanager.dll
+E:\August 15\MainProject\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.pdb
+E:\August 15\MainProject\customerSdmodule\Taskmanager\obj\Debug\net6.0\ref\Taskmanager.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\Taskmanager\bin\Debug\net6.0\Taskmanager.deps.json
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\Taskmanager\bin\Debug\net6.0\Taskmanager.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\Taskmanager\bin\Debug\net6.0\Taskmanager.pdb
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.csproj.AssemblyReference.cache
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.GeneratedMSBuildEditorConfig.editorconfig
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.AssemblyInfoInputs.cache
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.AssemblyInfo.cs
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.csproj.CoreCompileInputs.cache
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\Taskmanager\obj\Debug\net6.0\refint\Taskmanager.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.pdb
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\Taskmanager\obj\Debug\net6.0\ref\Taskmanager.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\Taskmanager\bin\Debug\net6.0\Taskmanager.deps.json
+D:\customerapp5\MainProject\MainProject\customerSdmodule\Taskmanager\bin\Debug\net6.0\Taskmanager.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\Taskmanager\bin\Debug\net6.0\Taskmanager.pdb
+D:\customerapp5\MainProject\MainProject\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.csproj.AssemblyReference.cache
+D:\customerapp5\MainProject\MainProject\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.GeneratedMSBuildEditorConfig.editorconfig
+D:\customerapp5\MainProject\MainProject\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.AssemblyInfoInputs.cache
+D:\customerapp5\MainProject\MainProject\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.AssemblyInfo.cs
+D:\customerapp5\MainProject\MainProject\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.csproj.CoreCompileInputs.cache
+D:\customerapp5\MainProject\MainProject\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\Taskmanager\obj\Debug\net6.0\refint\Taskmanager.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.pdb
+D:\customerapp5\MainProject\MainProject\customerSdmodule\Taskmanager\obj\Debug\net6.0\ref\Taskmanager.dll
+D:\5005\sda\API\customerSdmodule\Taskmanager\bin\Debug\net6.0\Taskmanager.deps.json
+D:\5005\sda\API\customerSdmodule\Taskmanager\bin\Debug\net6.0\Taskmanager.dll
+D:\5005\sda\API\customerSdmodule\Taskmanager\bin\Debug\net6.0\Taskmanager.pdb
+D:\5005\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.csproj.AssemblyReference.cache
+D:\5005\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.GeneratedMSBuildEditorConfig.editorconfig
+D:\5005\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.AssemblyInfoInputs.cache
+D:\5005\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.AssemblyInfo.cs
+D:\5005\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.csproj.CoreCompileInputs.cache
+D:\5005\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.dll
+D:\5005\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\refint\Taskmanager.dll
+D:\5005\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\Taskmanager.pdb
+D:\5005\sda\API\customerSdmodule\Taskmanager\obj\Debug\net6.0\ref\Taskmanager.dll

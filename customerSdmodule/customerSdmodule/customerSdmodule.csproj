@@ -1,0 +1,52 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>335f5738-3e1c-4db9-a24e-2cd1caf6e304</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Confluent.Kafka" Version="1.9.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.15.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Oracle.EntityFrameworkCore" Version="6.21.61" />
+    <PackageReference Include="Serilog" Version="2.11.0" />
+    <PackageReference Include="Serilog.AspNetCore" Version="5.0.0" />
+    <PackageReference Include="Serilog.Sinks.Console" Version="4.0.1" />
+    <PackageReference Include="Serilog.Sinks.SyslogServer" Version="1.1.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RedisCacheDemo\RedisCacheDemo.csproj" />
+    <ProjectReference Include="..\Taskmanager\Tokenmanager.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="MACOM.Contracts">
+      <HintPath>Dlls\MACOM.Contracts.dll</HintPath>
+    </Reference>
+    <Reference Include="MACOM.Integrations">
+      <HintPath>Dlls\MACOM.Integrations.dll</HintPath>
+    </Reference>
+    <Reference Include="MACOM.SDK">
+      <HintPath>Dlls\MACOM.SDK.dll</HintPath>
+    </Reference>
+    <Reference Include="MACOM.SDK.Toolkit">
+      <HintPath>Dlls\MACOM.SDK.Toolkit.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

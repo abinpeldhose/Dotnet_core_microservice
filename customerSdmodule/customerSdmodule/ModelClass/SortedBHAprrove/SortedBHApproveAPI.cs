@@ -1,0 +1,107 @@
+﻿using customerSdmodule.Model1;
+using customerSdmodule.Redis;
+using Serilog;
+using System.Text.Json;
+using static RedisCacheDemo.RedisCacheStore;
+
+namespace customerSdmodule.ModelClass.SortedBHAprrove
+{
+    public class SortedBHApproveAPI:BaseApi
+    {
+
+      
+
+        public ResponseData Get(ModelContext db)
+        {
+            return SortedBh(db);
+        }
+        public ResponseData SortedBh(ModelContext db)
+        {
+            try
+            {
+                ResponseData _Response = new ResponseData();
+                var uniqueId = TokenManager.TokenManagement.Extract(JwtToken);
+                var cacheDetails = JsonSerializer.Deserialize<CacheData>(RedisRun.Get(uniqueId, null));
+                var data = (from so in db.SdChequereconcilations
+                            where so.StatusId == 3 && so.BranchbankId==cacheDetails.BranchId
+                            orderby so.BhVerifyDate
+                            select new
+                            {
+                                customerName = so.CustomerName,
+                                chequeNumber = so.Chequeno,
+                                chequeSubmitDate = so.ChqSubmiteDate,
+                                firmId = so.FirmId,
+                                branchId = so.BranchId,
+                                amount = so.Amount,
+                                chequecleardate = so.ChequeCleardt,
+                                depositid = so.DepositId,
+                                bhVerifiedDate = so.BhVerifyDate,
+                                customerBank = so.CustomerBank,
+                                depositBank = so.SubsidiarybankName,
+                                employeeCode = so.EmployeeCode,
+                                bhId = so.BhId,
+                            }).ToList();
+                if (data.Count() == 0)
+                {
+                    Log.Error("There is No sorted BhApprove cheque");
+                    var results = new
+                    {
+                        status = "There is No sorted BhApprove cheque",
+                    };
+                    _Response.responseCode = 404;
+                    var Jsonstring = JsonSerializer.Serialize(results);
+                    _Response.data = JsonSerializer.Deserialize<dynamic>(Jsonstring);
+                    Log.Information("error");
+                    return _Response;
+
+                }
+                else
+                {
+                    _Response.responseCode = 200;
+                    var Jsonstring = JsonSerializer.Serialize(data);
+                    _Response.data = JsonSerializer.Deserialize<dynamic>(Jsonstring);
+                    
+
+                    Log.Information("Success");
+                    return _Response;
+                }
+            }
+
+            catch (Exception ex)
+            {
+                var message = new { Status = "something went wrong" };
+
+                ResponseData _Response = new ResponseData();
+                _Response.responseCode = 400;
+                var Jsonstring = JsonSerializer.Serialize(message);
+                _Response.data = JsonSerializer.Deserialize<dynamic>(Jsonstring);             
+
+                Log.Information(ex.Message);
+                return _Response;
+            }
+        }
+
+        protected override List<Exception> CustomisedValidate(ModelContext db)
+        {
+            List<Exception> FailedValidation = new List<Exception>();
+
+            return FailedValidation;
+        }
+
+        protected override ResponseData OnValidationSuccess(ModelContext db)
+        {
+
+            ResponseData _Response = Get(db);
+            return _Response;
+
+        }
+        protected override string GetSerialisedDataBlockWithDeviceToken()
+        {
+            // Data.DeviceID = base._cache.DeviceId;
+            string _SerialisedDataBlockWithDeviceToken = JsonSerializer.Serialize(new { DeviceID = base._cache.DeviceId });
+            ///Data.DeviceID = String.Empty;
+            return _SerialisedDataBlockWithDeviceToken;
+        }
+
+    }
+}

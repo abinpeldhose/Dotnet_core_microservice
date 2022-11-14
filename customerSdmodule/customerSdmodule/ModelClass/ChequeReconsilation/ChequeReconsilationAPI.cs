@@ -1,0 +1,80 @@
+﻿using customerSdmodule.Model1;
+using customerSdmodule.Redis;
+using Serilog;
+using System.Text.Json;
+using static RedisCacheDemo.RedisCacheStore;
+
+namespace customerSdmodule.ModelClass.ChequeReconsilation
+{
+    public class ChequeReconsilationAPI:BaseApi
+    {
+      //  private string jwtToken;
+       // public string JwtToken { get => jwtToken; set => jwtToken = value; }
+
+        public ResponseData Get(ModelContext db)
+        {
+            return ChequeReconsiledList(db);
+        }
+        public ResponseData ChequeReconsiledList(ModelContext db)
+        {
+            try
+            {
+                var uniqueId= TokenManager.TokenManagement.Extract(JwtToken);
+                var cacheDetails =JsonSerializer.Deserialize<CacheData>(RedisRun.Get(uniqueId, null));
+
+
+                var data = db.SdChequereconcilations.Where(x => x.StatusId == 0 && x.BranchbankId==cacheDetails.BranchId).OrderBy(x => x.ChqSubmiteDate).ToList();
+                Log.Information("Success");
+                //return Results.Ok(data);
+                ResponseData _Response = new ResponseData();
+                _Response.responseCode = 200;
+                var Jsonstring = JsonSerializer.Serialize(data);
+                _Response.data = JsonSerializer.Deserialize<dynamic>(Jsonstring);
+                // _Response.data = JsonSerializer.Serialize(data);
+                return _Response;
+            }
+
+            catch (Exception ex)
+            {
+                var message = new { status = "something went wrong" };
+                Log.Error(ex.Message);
+                //return Results.NotFound(message);
+                ResponseData _Response = new ResponseData();
+                _Response.responseCode = 400;
+                var Jsonstring = JsonSerializer.Serialize(message);
+                _Response.data = JsonSerializer.Deserialize<dynamic>(Jsonstring);
+                // _Response.data = JsonSerializer.Serialize(message);
+                return _Response;
+            }
+        }
+
+
+        protected override ResponseData OnValidationSuccess(ModelContext db)
+        {
+
+            ResponseData _Response = Get(db);
+            return _Response;
+
+        }
+
+        protected override string GetSerialisedDataBlockWithDeviceToken()
+        {
+           // Data.DeviceID = base._cache.DeviceId;
+           var Data= new { DeviceID = base._cache.DeviceId };
+            string _SerialisedDataBlockWithDeviceToken = JsonSerializer.Serialize(Data);
+           // Data.DeviceID = String.Empty;
+            return _SerialisedDataBlockWithDeviceToken;
+        }
+
+        protected override List<Exception> CustomisedValidate(ModelContext db)
+        {
+            List<Exception> FailedValidation = new List<Exception>();
+            //  var verify = db.UserLoginMst1s.Where(x => x.UserId == Data.Userid && x.Phone == Data.Phone).ToList();
+            //if (verify == null)
+            //{
+            //    FailedValidation.Add(new ApplicationException("Invalid Input"));
+            //}
+            return FailedValidation;
+        }
+    }
+}

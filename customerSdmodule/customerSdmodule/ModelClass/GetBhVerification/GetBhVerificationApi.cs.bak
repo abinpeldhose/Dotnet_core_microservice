@@ -1,0 +1,72 @@
+﻿using customerSdmodule.Model1;
+using Serilog;
+using System.Text.Json;
+
+namespace customerSdmodule.ModelClass.GetBhVerification
+{
+    public class GetBhVerificationApi : BaseApi
+    {
+        public ResponseData Get(ModelContext db)
+        {
+           return bhverification(db);
+        }
+
+
+        public ResponseData bhverification(ModelContext db)
+        {
+
+            try
+            {
+                var data = db.SdChequereconcilations.Where(x => x.StatusId == 1 || x.StatusId == 2).OrderBy(x => x.EmployeeVerifyDate).ToList();
+                Log.Information("Success");
+                //return Results.Ok(data);
+                ResponseData _Response = new ResponseData();
+                _Response.responseCode = 200;
+                var Jsonstring = JsonSerializer.Serialize(data);
+                _Response.data = JsonSerializer.Deserialize<dynamic>(Jsonstring);
+                // _Response.data = JsonSerializer.Serialize(data);
+                return _Response;
+            }
+
+            catch (Exception ex)
+            {
+                var message = new { Status = "something went wrong" };
+                Log.Error(ex.Message);
+                // return Results.NotFound(message);
+
+                ResponseData _Response = new ResponseData();
+                _Response.responseCode = 400;
+                var Jsonstring = JsonSerializer.Serialize(new { Status = "Somethings went wrong" });
+                _Response.data = JsonSerializer.Deserialize<dynamic>(Jsonstring);
+                // _Response.data = JsonSerializer.Serialize(new { Status = "Somethings went wrong" });
+                return _Response;
+            }
+
+
+        }
+
+
+        protected override ResponseData OnValidationSuccess(ModelContext db)
+        {
+
+            ResponseData _Response = Get(db);
+            return _Response;
+
+        }
+
+        protected override string GetSerialisedDataBlockWithDeviceToken()
+        {
+            //Data.DeviceID = base._cache.DeviceId;
+            string _SerialisedDataBlockWithDeviceToken = JsonSerializer.Serialize(new {DeviceID=base._cache.DeviceId});
+          //  Data.DeviceID = String.Empty;
+            return _SerialisedDataBlockWithDeviceToken;
+        }
+        protected override List<Exception> CustomisedValidate(ModelContext db)
+        {
+            List<Exception> FailedValidation = new List<Exception>();
+
+            return FailedValidation;
+
+        }
+    }
+}

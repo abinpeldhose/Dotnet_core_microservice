@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "bT99aXPIy6q1FDD011BY8TDrefogiXO0B/kY3zXrVKK9jou9+srRIMWrJ8HlWfLEnCIGW6emkH2M8clztdbkfw==",
+  "success": true,
+  "projectFilePath": "E:\\Telegram Desktop\\5012_vapt_pranoy\\customerSdmodule\\Taskmanager\\Tokenmanager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\100580\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\100580\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.20.0\\microsoft.identitymodel.abstractions.6.20.0.nupkg.sha512",
+    "C:\\Users\\100580\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.20.0\\microsoft.identitymodel.jsonwebtokens.6.20.0.nupkg.sha512",
+    "C:\\Users\\100580\\.nuget\\packages\\microsoft.identitymodel.logging\\6.20.0\\microsoft.identitymodel.logging.6.20.0.nupkg.sha512",
+    "C:\\Users\\100580\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.20.0\\microsoft.identitymodel.tokens.6.20.0.nupkg.sha512",
+    "C:\\Users\\100580\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.20.0\\system.identitymodel.tokens.jwt.6.20.0.nupkg.sha512",
+    "C:\\Users\\100580\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

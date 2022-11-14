@@ -1,0 +1,204 @@
+D:\sda\API\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.deps.json
+D:\sda\API\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.dll
+D:\sda\API\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.pdb
+D:\sda\API\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.AssemblyReference.cache
+D:\sda\API\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\sda\API\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfoInputs.cache
+D:\sda\API\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfo.cs
+D:\sda\API\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.CoreCompileInputs.cache
+D:\sda\API\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.dll
+D:\sda\API\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\refint\RedisCacheDemo.dll
+D:\sda\API\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.pdb
+D:\sda\API\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\ref\RedisCacheDemo.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.deps.json
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.pdb
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.AssemblyReference.cache
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfoInputs.cache
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfo.cs
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.CoreCompileInputs.cache
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\refint\RedisCacheDemo.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.pdb
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\ref\RedisCacheDemo.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.deps.json
+E:\August 15\customerSdmodule (3)\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.pdb
+E:\August 15\customerSdmodule (3)\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.AssemblyReference.cache
+E:\August 15\customerSdmodule (3)\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\August 15\customerSdmodule (3)\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfoInputs.cache
+E:\August 15\customerSdmodule (3)\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfo.cs
+E:\August 15\customerSdmodule (3)\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.CoreCompileInputs.cache
+E:\August 15\customerSdmodule (3)\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\refint\RedisCacheDemo.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.pdb
+E:\August 15\customerSdmodule (3)\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\ref\RedisCacheDemo.dll
+D:\Abin\Customerapp4\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.deps.json
+D:\Abin\Customerapp4\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.dll
+D:\Abin\Customerapp4\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.pdb
+D:\Abin\Customerapp4\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.AssemblyReference.cache
+D:\Abin\Customerapp4\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abin\Customerapp4\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfoInputs.cache
+D:\Abin\Customerapp4\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfo.cs
+D:\Abin\Customerapp4\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.CoreCompileInputs.cache
+D:\Abin\Customerapp4\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.dll
+D:\Abin\Customerapp4\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\refint\RedisCacheDemo.dll
+D:\Abin\Customerapp4\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.pdb
+D:\Abin\Customerapp4\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\ref\RedisCacheDemo.dll
+E:\August 15\MainProject\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.deps.json
+E:\August 15\MainProject\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.dll
+E:\August 15\MainProject\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.pdb
+E:\August 15\MainProject\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.AssemblyReference.cache
+E:\August 15\MainProject\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\August 15\MainProject\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfoInputs.cache
+E:\August 15\MainProject\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfo.cs
+E:\August 15\MainProject\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.CoreCompileInputs.cache
+E:\August 15\MainProject\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.dll
+E:\August 15\MainProject\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\refint\RedisCacheDemo.dll
+E:\August 15\MainProject\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.pdb
+E:\August 15\MainProject\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\ref\RedisCacheDemo.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.deps.json
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.pdb
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.AssemblyReference.cache
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfoInputs.cache
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfo.cs
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.CoreCompileInputs.cache
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\refint\RedisCacheDemo.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.pdb
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\ref\RedisCacheDemo.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.deps.json
+D:\customerapp5\MainProject\MainProject\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.pdb
+D:\customerapp5\MainProject\MainProject\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.AssemblyReference.cache
+D:\customerapp5\MainProject\MainProject\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\customerapp5\MainProject\MainProject\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfoInputs.cache
+D:\customerapp5\MainProject\MainProject\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfo.cs
+D:\customerapp5\MainProject\MainProject\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.CoreCompileInputs.cache
+D:\customerapp5\MainProject\MainProject\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\refint\RedisCacheDemo.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.pdb
+D:\customerapp5\MainProject\MainProject\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\ref\RedisCacheDemo.dll
+D:\5005\sda\API\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.deps.json
+D:\5005\sda\API\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.dll
+D:\5005\sda\API\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.pdb
+D:\5005\sda\API\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.AssemblyReference.cache
+D:\5005\sda\API\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\5005\sda\API\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfoInputs.cache
+D:\5005\sda\API\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfo.cs
+D:\5005\sda\API\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.CoreCompileInputs.cache
+D:\5005\sda\API\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.dll
+D:\5005\sda\API\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\refint\RedisCacheDemo.dll
+D:\5005\sda\API\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.pdb
+D:\5005\sda\API\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\ref\RedisCacheDemo.dll
+D:\5011\sda\API\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.deps.json
+D:\5011\sda\API\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.dll
+D:\5011\sda\API\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.pdb
+D:\5011\sda\API\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.AssemblyReference.cache
+D:\5011\sda\API\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\5011\sda\API\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfoInputs.cache
+D:\5011\sda\API\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfo.cs
+D:\5011\sda\API\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.CoreCompileInputs.cache
+D:\5011\sda\API\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.dll
+D:\5011\sda\API\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\refint\RedisCacheDemo.dll
+D:\5011\sda\API\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.pdb
+D:\5011\sda\API\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\ref\RedisCacheDemo.dll
+D:\5012\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.deps.json
+D:\5012\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.dll
+D:\5012\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.pdb
+D:\5012\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.AssemblyReference.cache
+D:\5012\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\5012\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfoInputs.cache
+D:\5012\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfo.cs
+D:\5012\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.CoreCompileInputs.cache
+D:\5012\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.dll
+D:\5012\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\refint\RedisCacheDemo.dll
+D:\5012\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.pdb
+D:\5012\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\ref\RedisCacheDemo.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.deps.json
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.pdb
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.AssemblyReference.cache
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfoInputs.cache
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfo.cs
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.CoreCompileInputs.cache
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\refint\RedisCacheDemo.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.pdb
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\ref\RedisCacheDemo.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.deps.json
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.pdb
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.AssemblyReference.cache
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfoInputs.cache
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfo.cs
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.CoreCompileInputs.cache
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\refint\RedisCacheDemo.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.pdb
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\ref\RedisCacheDemo.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.deps.json
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.pdb
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.AssemblyReference.cache
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfoInputs.cache
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfo.cs
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.CoreCompileInputs.cache
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\refint\RedisCacheDemo.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.pdb
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\ref\RedisCacheDemo.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.deps.json
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.pdb
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.AssemblyReference.cache
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfoInputs.cache
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfo.cs
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.CoreCompileInputs.cache
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\refint\RedisCacheDemo.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.pdb
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\ref\RedisCacheDemo.dll
+E:\finalVapt\5012_vapt1\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.deps.json
+E:\finalVapt\5012_vapt1\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.dll
+E:\finalVapt\5012_vapt1\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.pdb
+E:\finalVapt\5012_vapt1\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.AssemblyReference.cache
+E:\finalVapt\5012_vapt1\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\finalVapt\5012_vapt1\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfoInputs.cache
+E:\finalVapt\5012_vapt1\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfo.cs
+E:\finalVapt\5012_vapt1\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.CoreCompileInputs.cache
+E:\finalVapt\5012_vapt1\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.dll
+E:\finalVapt\5012_vapt1\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\refint\RedisCacheDemo.dll
+E:\finalVapt\5012_vapt1\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.pdb
+E:\finalVapt\5012_vapt1\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\ref\RedisCacheDemo.dll
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.deps.json
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.dll
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.pdb
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.AssemblyReference.cache
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfoInputs.cache
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfo.cs
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.CoreCompileInputs.cache
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.dll
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\refint\RedisCacheDemo.dll
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.pdb
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\ref\RedisCacheDemo.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.deps.json
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\RedisCacheDemo\bin\Debug\net6.0\RedisCacheDemo.pdb
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.AssemblyReference.cache
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfoInputs.cache
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.AssemblyInfo.cs
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.csproj.CoreCompileInputs.cache
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\refint\RedisCacheDemo.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\RedisCacheDemo.pdb
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\RedisCacheDemo\obj\Debug\net6.0\ref\RedisCacheDemo.dll

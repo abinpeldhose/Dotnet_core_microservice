@@ -1,0 +1,1657 @@
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\App.config
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.Development.json
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.json
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.exe
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll.config
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.deps.json
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.runtimeconfig.json
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.pdb
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Humanizer.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.EntityFrameworkCore.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Syslog.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Contracts.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Integrations.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.Toolkit.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Taskmanager.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.pdb
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Taskmanager.pdb
+D:\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.AssemblyReference.cache
+D:\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.GeneratedMSBuildEditorConfig.editorconfig
+D:\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfoInputs.cache
+D:\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfo.cs
+D:\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CoreCompileInputs.cache
+D:\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cs
+D:\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cache
+D:\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.build.json
+D:\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.development.json
+D:\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\scopedcss\bundle\customerSdmodule.styles.css
+D:\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CopyComplete
+D:\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.dll
+D:\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\refint\customerSdmodule.dll
+D:\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.pdb
+D:\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.genruntimeconfig.cache
+D:\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\ref\customerSdmodule.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Confluent.Kafka.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-1_1-x64.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libssl-1_1-x64.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-1_1.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libssl-1_1.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+D:\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\App.config
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.json
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.exe
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll.config
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.deps.json
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.runtimeconfig.json
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.pdb
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Humanizer.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.EntityFrameworkCore.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Syslog.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-1_1-x64.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libssl-1_1-x64.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-1_1.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libssl-1_1.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Contracts.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Integrations.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.Toolkit.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Taskmanager.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.pdb
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Taskmanager.pdb
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.AssemblyReference.cache
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfoInputs.cache
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfo.cs
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CoreCompileInputs.cache
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\scopedcss\bundle\customerSdmodule.styles.css
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CopyComplete
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\refint\customerSdmodule.dll
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.pdb
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.genruntimeconfig.cache
+C:\Users\100590\Music\sdaccountings\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\ref\customerSdmodule.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\App.config
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.Development.json
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.json
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.exe
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll.config
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.deps.json
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.runtimeconfig.json
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.pdb
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Confluent.Kafka.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Humanizer.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.EntityFrameworkCore.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.AspNetCore.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.File.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Syslog.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-1_1-x64.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libssl-1_1-x64.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-1_1.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libssl-1_1.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Contracts.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Integrations.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.Toolkit.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Taskmanager.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.pdb
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Taskmanager.pdb
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.AssemblyReference.cache
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.GeneratedMSBuildEditorConfig.editorconfig
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfoInputs.cache
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfo.cs
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CoreCompileInputs.cache
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cs
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cache
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.build.json
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.development.json
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\scopedcss\bundle\customerSdmodule.styles.css
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CopyComplete
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\refint\customerSdmodule.dll
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.pdb
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.genruntimeconfig.cache
+E:\August 15\customerSdmodule (3)\customerSdmodule\customerSdmodule\obj\Debug\net6.0\ref\customerSdmodule.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\App.config
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.Development.json
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.json
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.exe
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll.config
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.deps.json
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.runtimeconfig.json
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.pdb
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Confluent.Kafka.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Humanizer.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.EntityFrameworkCore.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Syslog.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-1_1-x64.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libssl-1_1-x64.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-1_1.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libssl-1_1.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Contracts.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Integrations.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.Toolkit.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Taskmanager.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.pdb
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Taskmanager.pdb
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.AssemblyReference.cache
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfoInputs.cache
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfo.cs
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CoreCompileInputs.cache
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cs
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cache
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.build.json
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.development.json
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\obj\Debug\net6.0\scopedcss\bundle\customerSdmodule.styles.css
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CopyComplete
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\obj\Debug\net6.0\refint\customerSdmodule.dll
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.pdb
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.genruntimeconfig.cache
+D:\Abin\Customerapp4\customerSdmodule\customerSdmodule\obj\Debug\net6.0\ref\customerSdmodule.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\App.config
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.Development.json
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.json
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.exe
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll.config
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.deps.json
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.runtimeconfig.json
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.pdb
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Confluent.Kafka.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Humanizer.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.EntityFrameworkCore.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.AspNetCore.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.File.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Syslog.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-1_1-x64.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libssl-1_1-x64.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-1_1.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libssl-1_1.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Contracts.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Integrations.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.Toolkit.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Taskmanager.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.pdb
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Taskmanager.pdb
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.AssemblyReference.cache
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.GeneratedMSBuildEditorConfig.editorconfig
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfoInputs.cache
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfo.cs
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CoreCompileInputs.cache
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cs
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cache
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.build.json
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.development.json
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\scopedcss\bundle\customerSdmodule.styles.css
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CopyComplete
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\refint\customerSdmodule.dll
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.pdb
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.genruntimeconfig.cache
+E:\August 15\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\ref\customerSdmodule.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\App.config
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.Development.json
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.json
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.exe
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll.config
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.deps.json
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.runtimeconfig.json
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.pdb
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Confluent.Kafka.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Humanizer.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.EntityFrameworkCore.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.AspNetCore.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.File.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Syslog.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-1_1-x64.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libssl-1_1-x64.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-1_1.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libssl-1_1.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Contracts.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Integrations.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.Toolkit.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Taskmanager.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.pdb
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Taskmanager.pdb
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.AssemblyReference.cache
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.GeneratedMSBuildEditorConfig.editorconfig
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfoInputs.cache
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfo.cs
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CoreCompileInputs.cache
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cs
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cache
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.build.json
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.development.json
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\scopedcss\bundle\customerSdmodule.styles.css
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CopyComplete
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\refint\customerSdmodule.dll
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.pdb
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.genruntimeconfig.cache
+E:\newprojectabin\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\ref\customerSdmodule.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\App.config
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.Development.json
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.json
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.exe
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll.config
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.deps.json
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.runtimeconfig.json
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.pdb
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Confluent.Kafka.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Humanizer.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.EntityFrameworkCore.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Syslog.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-1_1-x64.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libssl-1_1-x64.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-1_1.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libssl-1_1.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Contracts.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Integrations.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.Toolkit.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Taskmanager.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.pdb
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Taskmanager.pdb
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.AssemblyReference.cache
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.GeneratedMSBuildEditorConfig.editorconfig
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfoInputs.cache
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfo.cs
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CoreCompileInputs.cache
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cs
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cache
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.build.json
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.development.json
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\scopedcss\bundle\customerSdmodule.styles.css
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CopyComplete
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\refint\customerSdmodule.dll
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.pdb
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.genruntimeconfig.cache
+D:\customerapp5\MainProject\MainProject\customerSdmodule\customerSdmodule\obj\Debug\net6.0\ref\customerSdmodule.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\App.config
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.Development.json
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.json
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.exe
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll.config
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.deps.json
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.runtimeconfig.json
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.pdb
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Confluent.Kafka.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Humanizer.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.EntityFrameworkCore.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Syslog.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-1_1-x64.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libssl-1_1-x64.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-1_1.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libssl-1_1.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Contracts.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Integrations.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.Toolkit.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.pdb
+D:\5005\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.AssemblyReference.cache
+D:\5005\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.GeneratedMSBuildEditorConfig.editorconfig
+D:\5005\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfoInputs.cache
+D:\5005\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfo.cs
+D:\5005\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CoreCompileInputs.cache
+D:\5005\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cs
+D:\5005\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cache
+D:\5005\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.build.json
+D:\5005\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.development.json
+D:\5005\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\scopedcss\bundle\customerSdmodule.styles.css
+D:\5005\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CopyComplete
+D:\5005\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\refint\customerSdmodule.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.pdb
+D:\5005\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.genruntimeconfig.cache
+D:\5005\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\ref\customerSdmodule.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Tokenmanager.dll
+D:\5005\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Tokenmanager.pdb
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\App.config
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.Development.json
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.json
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.exe
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll.config
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.deps.json
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.runtimeconfig.json
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.pdb
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Confluent.Kafka.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Humanizer.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.EntityFrameworkCore.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Syslog.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-1_1-x64.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libssl-1_1-x64.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-1_1.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libssl-1_1.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Contracts.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Integrations.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.Toolkit.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Tokenmanager.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.pdb
+D:\5011\sda\API\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Tokenmanager.pdb
+D:\5011\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.AssemblyReference.cache
+D:\5011\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.GeneratedMSBuildEditorConfig.editorconfig
+D:\5011\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfoInputs.cache
+D:\5011\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfo.cs
+D:\5011\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CoreCompileInputs.cache
+D:\5011\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cs
+D:\5011\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cache
+D:\5011\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.build.json
+D:\5011\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.development.json
+D:\5011\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\scopedcss\bundle\customerSdmodule.styles.css
+D:\5011\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CopyComplete
+D:\5011\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\refint\customerSdmodule.dll
+D:\5011\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.pdb
+D:\5011\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.genruntimeconfig.cache
+D:\5011\sda\API\customerSdmodule\customerSdmodule\obj\Debug\net6.0\ref\customerSdmodule.dll
+D:\5012\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.AssemblyReference.cache
+D:\5012\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.GeneratedMSBuildEditorConfig.editorconfig
+D:\5012\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfoInputs.cache
+D:\5012\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfo.cs
+D:\5012\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CoreCompileInputs.cache
+D:\5012\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cs
+D:\5012\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cache
+D:\5012\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.dll
+D:\5012\customerSdmodule\customerSdmodule\obj\Debug\net6.0\refint\customerSdmodule.dll
+D:\5012\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.pdb
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\App.config
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.Development.json
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.json
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.exe
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll.config
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.deps.json
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.runtimeconfig.json
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.pdb
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Confluent.Kafka.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Humanizer.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.EntityFrameworkCore.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Syslog.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-1_1-x64.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libssl-1_1-x64.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-1_1.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libssl-1_1.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Contracts.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Integrations.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.Toolkit.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Tokenmanager.dll
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.pdb
+D:\5012\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Tokenmanager.pdb
+D:\5012\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.build.json
+D:\5012\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.development.json
+D:\5012\customerSdmodule\customerSdmodule\obj\Debug\net6.0\scopedcss\bundle\customerSdmodule.styles.css
+D:\5012\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CopyComplete
+D:\5012\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.genruntimeconfig.cache
+D:\5012\customerSdmodule\customerSdmodule\obj\Debug\net6.0\ref\customerSdmodule.dll
+D:\5012\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.Properties.Resources.resources
+D:\5012\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.GenerateResource.cache
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\App.config
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.Development.json
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.json
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.exe
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll.config
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.deps.json
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.runtimeconfig.json
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.pdb
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Confluent.Kafka.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Humanizer.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.EntityFrameworkCore.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.AspNetCore.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.File.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Syslog.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-1_1-x64.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libssl-1_1-x64.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-1_1.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libssl-1_1.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Contracts.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Integrations.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.Toolkit.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Tokenmanager.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.pdb
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Tokenmanager.pdb
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.AssemblyReference.cache
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.Properties.Resources.resources
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.GenerateResource.cache
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.GeneratedMSBuildEditorConfig.editorconfig
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfoInputs.cache
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfo.cs
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CoreCompileInputs.cache
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cs
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cache
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.build.json
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.development.json
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\scopedcss\bundle\customerSdmodule.styles.css
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CopyComplete
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\refint\customerSdmodule.dll
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.pdb
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.genruntimeconfig.cache
+E:\VAPT_LATEST_API\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\ref\customerSdmodule.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\App.config
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.json
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.exe
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll.config
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.deps.json
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.runtimeconfig.json
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.pdb
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Humanizer.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.EntityFrameworkCore.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Syslog.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-1_1-x64.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libssl-1_1-x64.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-1_1.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libssl-1_1.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Contracts.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Integrations.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.Toolkit.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Tokenmanager.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.pdb
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Tokenmanager.pdb
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.AssemblyReference.cache
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.Properties.Resources.resources
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.GenerateResource.cache
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfoInputs.cache
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfo.cs
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CoreCompileInputs.cache
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\scopedcss\bundle\customerSdmodule.styles.css
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CopyComplete
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\refint\customerSdmodule.dll
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.pdb
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.genruntimeconfig.cache
+C:\Users\100588\Music\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\ref\customerSdmodule.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.AssemblyReference.cache
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.Properties.Resources.resources
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.GenerateResource.cache
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.GeneratedMSBuildEditorConfig.editorconfig
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfoInputs.cache
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfo.cs
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CoreCompileInputs.cache
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cs
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cache
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\refint\customerSdmodule.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.pdb
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\App.config
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.Development.json
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.json
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.exe
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll.config
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.deps.json
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.runtimeconfig.json
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.pdb
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Confluent.Kafka.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Humanizer.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.EntityFrameworkCore.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.AspNetCore.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.File.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Syslog.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-1_1-x64.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libssl-1_1-x64.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-1_1.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libssl-1_1.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Contracts.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Integrations.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.Toolkit.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Tokenmanager.dll
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.pdb
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Tokenmanager.pdb
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.build.json
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.development.json
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\scopedcss\bundle\customerSdmodule.styles.css
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CopyComplete
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.genruntimeconfig.cache
+E:\VAPT_LIVE_API_27_10\5012_VAPT\customerSdmodule\customerSdmodule\obj\Debug\net6.0\ref\customerSdmodule.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\App.config
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.json
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.exe
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll.config
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.deps.json
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.runtimeconfig.json
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.pdb
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Humanizer.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.EntityFrameworkCore.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Syslog.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-1_1-x64.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libssl-1_1-x64.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-1_1.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libssl-1_1.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Contracts.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Integrations.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.Toolkit.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Tokenmanager.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.pdb
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Tokenmanager.pdb
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.AssemblyReference.cache
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.Properties.Resources.resources
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.GenerateResource.cache
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfoInputs.cache
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfo.cs
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CoreCompileInputs.cache
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\obj\Debug\net6.0\scopedcss\bundle\customerSdmodule.styles.css
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CopyComplete
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\obj\Debug\net6.0\refint\customerSdmodule.dll
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.pdb
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.genruntimeconfig.cache
+C:\Users\100588\Music\5012_vapt1\customerSdmodule\customerSdmodule\obj\Debug\net6.0\ref\customerSdmodule.dll
+E:\finalVapt\5012_vapt1\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.AssemblyReference.cache
+E:\finalVapt\5012_vapt1\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.Properties.Resources.resources
+E:\finalVapt\5012_vapt1\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.GenerateResource.cache
+E:\finalVapt\5012_vapt1\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.GeneratedMSBuildEditorConfig.editorconfig
+E:\finalVapt\5012_vapt1\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfoInputs.cache
+E:\finalVapt\5012_vapt1\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfo.cs
+E:\finalVapt\5012_vapt1\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CoreCompileInputs.cache
+E:\finalVapt\5012_vapt1\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cs
+E:\finalVapt\5012_vapt1\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cache
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.AssemblyReference.cache
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.Properties.Resources.resources
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.GenerateResource.cache
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.GeneratedMSBuildEditorConfig.editorconfig
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfoInputs.cache
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfo.cs
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CoreCompileInputs.cache
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cs
+E:\compare_vapt\5012_vapt_pranoy\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cache
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\App.config
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.Development.json
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\appsettings.json
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.exe
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll.config
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.deps.json
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.runtimeconfig.json
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\customerSdmodule.pdb
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Confluent.Kafka.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Humanizer.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.EntityFrameworkCore.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.AspNetCore.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.File.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Serilog.Sinks.Syslog.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-1_1-x64.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\libssl-1_1-x64.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-1_1.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\libssl-1_1.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Contracts.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.Integrations.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\MACOM.SDK.Toolkit.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Tokenmanager.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\RedisCacheDemo.pdb
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\bin\Debug\net6.0\Tokenmanager.pdb
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.AssemblyReference.cache
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.Properties.Resources.resources
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.GenerateResource.cache
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.GeneratedMSBuildEditorConfig.editorconfig
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfoInputs.cache
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.AssemblyInfo.cs
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CoreCompileInputs.cache
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cs
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.MvcApplicationPartsAssemblyInfo.cache
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.build.json
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\obj\Debug\net6.0\staticwebassets.development.json
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\obj\Debug\net6.0\scopedcss\bundle\customerSdmodule.styles.css
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.csproj.CopyComplete
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\obj\Debug\net6.0\refint\customerSdmodule.dll
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.pdb
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\obj\Debug\net6.0\customerSdmodule.genruntimeconfig.cache
+E:\Telegram Desktop\5012_vapt_pranoy\customerSdmodule\customerSdmodule\obj\Debug\net6.0\ref\customerSdmodule.dll
